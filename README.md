@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-management-api.git
+   git clone https://github.com/Saliim242/user-management-api.git
    cd user-management-api
    ```
 
