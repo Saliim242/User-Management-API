@@ -1,7 +1,3 @@
-Here’s a template for your `README.md` file for the User Management API:
-
----
-
 # User Management API
 
 A **User Management API** built using **Node.js**, **Express**, and **MongoDB**. This API allows you to manage users efficiently with full CRUD functionality, offering a robust solution for user data management in any web application.
